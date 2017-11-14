@@ -1,0 +1,15 @@
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\web_repository_pattern.exe.config
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\web_repository_pattern.exe
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\web_repository_pattern.pdb
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\EntityFramework.dll
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\EntityFramework.xml
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\obj\Debug\Web.Migrations.InitialMigration.resources
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\obj\Debug\web_repository_pattern.exe
+C:\Users\Robin\Downloads\RepositoryPattern\Queries\Queries\obj\Debug\web_repository_pattern.pdb
+E:\_Task\RepositoryPattern\Web\bin\Debug\web_repository_pattern.exe.config
+E:\_Task\RepositoryPattern\Web\obj\Debug\web_repository_pattern.exe
+E:\_Task\RepositoryPattern\Web\obj\Debug\web_repository_pattern.pdb
